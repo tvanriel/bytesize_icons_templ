@@ -1,0 +1,4 @@
+github.com/a-h/templ v0.2.598 h1:6jMIHv6wQZvdPxTuv87erW4RqN/FPU0wk7ZHN5wVuuo=
+github.com/a-h/templ v0.2.598/go.mod h1:SA7mtYwVEajbIXFRh3vKdYm/4FYyLQAtPH1+KxzGPA8=
+github.com/iancoleman/strcase v0.3.0 h1:nTXanmYxhfFAMjZL34Ov6gkzEsSJZ5DbhxWjvSASxEI=
+github.com/iancoleman/strcase v0.3.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
